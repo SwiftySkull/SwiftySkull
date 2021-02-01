@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/master/giphy.gif?raw=true" width="100%">
+<img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/blob/main/giphy.gif?raw=true" width="100%">
