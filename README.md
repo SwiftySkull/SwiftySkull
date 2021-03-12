@@ -16,10 +16,11 @@ Iwill work now for a month on project, my first website, in group of course ! :D
 I'm a little newbie but I'll hope with time I'll be so much better than now !
 I'm dreaming about becoming this you know :
 
+<img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/blob/main/Nadir-Kraken-Theros-Beyond-Death-Art.jpg?raw=true" width="100%">
+
+But for now... Let's take our time, I don't want to hide anymore and explore the wonderful lands of code !! :D
+
 <img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/blob/main/giphy.gif?raw=true" width="100%">
-
-
-
 
 
 <!--
