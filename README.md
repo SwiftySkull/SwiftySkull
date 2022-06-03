@@ -1,26 +1,41 @@
 # Welcome in my coding zone !
 
 Hello it's me ! Yes this little thing !
+
 <img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/blob/main/Seiche-79526.gif?raw=true" width="100%">
 
-## Who am I ?
+## Who am I ? 🐙
 
-Weel it's easy to say : a Junior in Web Development !
-I'm actually finishing my classes at O'Clock, a great (it's not subjective at all) French school !
-It was a FullStack formation with a specialty in React (for me !)
+I'm a FullStack Web Developer who especially works with React and Symfony.
+I love playing with CSS even though my imagination is not my main asset..!
 
-So soon... I'll be on my own hehe !
+## My work 🖥️
 
-Iwill work now for a month on project, my first website, in group of course ! :D
+<a href="https://www.developoulpe.fr/" target="_blank" rel="noreferre noopener">DeveloPoulpe</a> is my "brand name" and here you can visit my new website where you'll be able to find my career and the projects I worked on !
 
-I'm a little newbie but I'll hope with time I'll be so much better than now !
-I'm dreaming about becoming this you know :
+You'll also have all my links on it if you want to know me better or reach out to me in a way or an other ! 🔗
 
-<img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/blob/main/Nadir-Kraken-Theros-Beyond-Death-Art.jpg?raw=true" width="100%">
+## My goals ✔️
 
-But for now... Let's take our time, I don't want to hide anymore and explore the wonderful lands of code !! :D
+Actually I'm looking for new clients 🧑‍🤝‍🧑 OR a company who would like to adopt a motivated little octopus 🐙 !
+Mainly I prefer working at home, I made myself a good space with good material to work (<strong>Cooler Master family</strong>) , and the best interest : I have a bigger working time if I work at home, I could code all night long ! 🌜
 
-<img alt="Octopuss attack" src="https://github.com/SwiftySkull/SwiftySkull/blob/main/giphy.gif?raw=true" width="100%">
+## Let's stay in touch 📝
+
+If you want to reach out to me then you have many possibilities :
+- Going on my <a href="https://www.developoulpe.fr/" target="_blank" rel="noreferre noopener">website</a> and sending me a message from there !
+- Sending me an email to : <a mailto="aurelien.beneyton@developoulpe.fr">aurelien.beneyton@developoulpe.fr</a>
+- Going on social media maybe :
+   - <a href="https://www.linkedin.com/in/aurelien-b/" target="_blank" rel="noreferre noopener">LinkedIn</a>
+   - <a href="https://www.instagram.com/swiftyskull/" target="_blank" rel="noreferre noopener">Instagram</a>
+
+The easiest way is from my website anyway !
+
+🌞
+If you need anything, just ask me ! I may have a free arm out of 8 to write you back and help you !
+🏖️
+
+Enjoy diving into the sea ! 🌊 🌊
 
 
 <!--
